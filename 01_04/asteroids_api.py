@@ -6,7 +6,7 @@ import json
 # Documentation: https://api.nasa.gov/
 
 # Replace with your API key
-API_KEY = 'DEMO_KEY'
+API_KEY = 'e51VBdJbIUdYvj3K93ry6eyMT6CaHynDjrvnMr6e'
 NASA_BASE_URL = 'https://api.nasa.gov/neo/rest/v1/feed'
 
 # JSON helper function
